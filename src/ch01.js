@@ -9,6 +9,8 @@ const result = add(
   multiply(flockA, flockB)
 );
 
+result;
+
 // associative
 // add(add(x, y), z) === add(x, add(y, z));
 
